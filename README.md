@@ -49,9 +49,9 @@ Bitcoin (BTC) is more stable, with fewer extreme swings.
 
 Ethereum (ETH) is more volatile but showed higher monthly returns in several periods.
 
-The most volatile day for BTC was on [insert date] with a return of [X%].
+The most volatile day for BTC was 2024-11-11, with a return of +10.22%.
 
-The most volatile day for ETH was on [insert date] with a return of [Y%].
+The most volatile day for ETH was 2025-05-08, with a return of +21.80%.
 
 BTC’s Sharpe ratio was higher (1.33 annualized vs. 0.93 for ETH), so BTC returned more per unit of risk over this period. ETH swung harder without enough extra return to make up for it.
 
@@ -81,7 +81,9 @@ Explore portfolio diversification strategies with multiple assets.
 
 📂 Project Files
 
-btc_eth_analysis.ipynb → Jupyter/Colab notebook with code + charts.
+BTC_Analysis.ipynb → Jupyter/Colab notebook with the code, charts and results.
+
+Comparing_Bitcoin_vs_Ethereum_Volatility_&_Returns_Analysis.ipynb → Written walkthrough of the analysis and findings.
 
 README.md → Project overview (this file).
 
@@ -90,6 +92,4 @@ README.md → Project overview (this file).
 Carlos Arroyo
 
 💼 Aspiring Data Scientist & Cybersecurity Professional
-
-🎥 Crypto Educator on TikTok
 
