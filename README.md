@@ -91,5 +91,5 @@ README.md → Project overview (this file).
 
 Carlos Arroyo
 
-💼 Aspiring Data Scientist & Cybersecurity Professional
+💼 LinkedIn: [linkedin.com/in/coarroyo30](https://www.linkedin.com/in/coarroyo30)
 
