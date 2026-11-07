@@ -53,7 +53,7 @@ The most volatile day for BTC was on [insert date] with a return of [X%].
 
 The most volatile day for ETH was on [insert date] with a return of [Y%].
 
-ETH’s Sharpe ratio was higher, suggesting a riskier but better risk/reward tradeoff.
+BTC’s Sharpe ratio was higher (1.33 annualized vs. 0.93 for ETH), so BTC returned more per unit of risk over this period. ETH swung harder without enough extra return to make up for it.
 
 ✅ Conclusion
 
